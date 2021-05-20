@@ -23,5 +23,15 @@
         "package": "cransays",
         "url": "https://github.com/lockedata/cransays",
         "branch": "master"
+    },
+    {
+        "package": "roblog",
+        "url": "https://github.com/ropenscilabs/roblog",
+        "branch": "master"
+    },
+    {
+        "package": "rodev",
+        "url": "https://github.com/ropenscilabs/rodev",
+        "branch": "master"
     }
 ]
