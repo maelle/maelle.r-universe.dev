@@ -1,0 +1,27 @@
+[
+    {
+        "package": "riem",
+        "url": "https://github.com/ropensci/riem",
+        "branch": "master"
+    },
+    {
+        "package": "tinkr",
+        "url": "https://github.com/ropensci/tinkr",
+        "branch": "master"
+    },
+    {
+        "package": "rtimicropem",
+        "url": "https://github.com/ropensci/rtimicropem",
+        "branch": "master"
+    },
+    {
+        "package": "goodpress",
+        "url": "https://github.com/maelle/goodpress",
+        "branch": "master"
+    },
+    {
+        "package": "cransays",
+        "url": "https://github.com/lockedata/cransays",
+        "branch": "master"
+    }
+]
