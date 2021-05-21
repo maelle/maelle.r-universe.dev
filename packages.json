@@ -1,37 +1,30 @@
 [
     {
         "package": "riem",
-        "url": "https://github.com/ropensci/riem",
-        "branch": "master"
+        "url": "https://github.com/ropensci/riem"
     },
     {
         "package": "tinkr",
-        "url": "https://github.com/ropensci/tinkr",
-        "branch": "master"
+        "url": "https://github.com/ropensci/tinkr"
     },
     {
         "package": "rtimicropem",
-        "url": "https://github.com/ropensci/rtimicropem",
-        "branch": "master"
+        "url": "https://github.com/ropensci/rtimicropem"
     },
     {
         "package": "goodpress",
-        "url": "https://github.com/maelle/goodpress",
-        "branch": "master"
+        "url": "https://github.com/maelle/goodpress"
     },
     {
         "package": "cransays",
-        "url": "https://github.com/lockedata/cransays",
-        "branch": "master"
+        "url": "https://github.com/lockedata/cransays"
     },
     {
         "package": "roblog",
-        "url": "https://github.com/ropenscilabs/roblog",
-        "branch": "master"
+        "url": "https://github.com/ropenscilabs/roblog"
     },
     {
         "package": "rodev",
-        "url": "https://github.com/ropenscilabs/rodev",
-        "branch": "master"
+        "url": "https://github.com/ropenscilabs/rodev"
     }
 ]
