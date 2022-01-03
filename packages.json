@@ -1,17 +1,5 @@
 [
     {
-        "package": "riem",
-        "url": "https://github.com/ropensci/riem"
-    },
-    {
-        "package": "tinkr",
-        "url": "https://github.com/ropensci/tinkr"
-    },
-    {
-        "package": "rtimicropem",
-        "url": "https://github.com/ropensci/rtimicropem"
-    },
-    {
         "package": "goodpress",
         "url": "https://github.com/maelle/goodpress"
     },
